@@ -7,11 +7,12 @@
 
 # Site Settings
 locale                   : "zh-CN"
+title                    : "Yikai Zhang"
 name                     : &name "Yikai Zhang"
 description              : &description "Senior students in Shanghai Jiao Tong University, majoring in Computer Science (IEEE Honor Class)"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://arist12.github.io/ykzhang/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ykzhang.github.io"
+repository               : "arist12.github.io/ykzhang/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
