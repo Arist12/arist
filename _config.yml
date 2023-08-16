@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shanghai, China"
+locale                   : "zh-CN"
 name                     : &name "Yikai Zhang"
 description              : &description "Senior students in Shanghai Jiao Tong University, majoring in Computer Science (IEEE Honor Class)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Arist12"
+  github           : "Arist12"
   google_plus      :
   keybase          :
   instagram        :
