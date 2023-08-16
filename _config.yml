@@ -83,8 +83,8 @@ author:
   bio              : "Senior students in Shanghai Jiao Tong University, majoring in Computer Science (IEEE Honor Class)"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ca/citations?user=I_EmXRYAAAAJ&hl=en"
   email            : "ykzhang12@gmail.com"
   researchgate     : 
   uri              :
@@ -98,10 +98,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
