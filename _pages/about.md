@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student majoring in Computer Science (IEEE Honor Class) at Shanghai Jiao Tong University. 
+I'm a senior student majoring in Computer Science (IEEE Honor Class) at Shanghai Jiao Tong University. 
 
-In the second semester of my sophomore year, I was fortunate to take [Prof. Zhouhan Lin](https://hantek.github.io/) Natural Language Processing course. During my free time, I also conducted research on constituent syntax under his guidance, which marked the beginning of my journey in natural language processing research. 
-
-I'm currently working on enabling long context modeling of LLMs (Large Language Models) at GAIR Lab, supervised by [Prof. Pengfei Liu](http://pfliu.com/). Before that, I focused on tool learning in LLMs under the supervision of [Prof. Junxian He](https://jxhe.github.io/).
+I am currently conducting research on long context modeling of Large Language Models (LLMs) at the Generative Artificial Intelligence Research Lab (GAIR), under the guidance of [Prof. Pengfei Liu](http://pfliu.com/). Prior to this, I specialized in tool learning within LLMs, working closely with [Prof. Junxian He](https://jxhe.github.io/).
 
 # Research
 
-I'm generally interested in natural language processing, especially augmenting large language models. My current interests mainly lie on:
+I'm interested in natural language processing, especially augmenting large language models. My current interests mainly lie in the following:
 
 - **Long Context Modeling**
 
