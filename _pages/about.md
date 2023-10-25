@@ -18,11 +18,13 @@ I'm currently working on enabling long context modeling of LLMs (Large Language 
 
 I'm generally interested in natural language processing, especially augmenting large language models. My current interests mainly lie on:
 
-- **Long Context Extrapolation**
+- **Long Context Modeling**
 
 - **Tool Learning**
 
-- **Multi-step reasoning**
+- **Multi-step Reasoning**
+
+- **Instruction Tuning**
 
 # Publications
 
