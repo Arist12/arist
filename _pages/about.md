@@ -27,5 +27,5 @@ I'm interested in natural language processing, especially augmenting large langu
 # Publications
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
-Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, _Yikai Zhang_, Jiayi Lei, Yao Fu, Maosong Sun, *Junxian He*$^\dagger$  
-Preprint 2023. [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/SJTU-LIT/ceval) [[website]](https://cevalbenchmark.com)
+Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, *<ins>Yikai Zhang</ins>*, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)
