@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student majoring in Computer Science and Technology (IEEE Honor Class) at Shanghai Jiao Tong University. 
+I'm a senior student majoring in Computer Science and Technology (IEEE Honor Class) at Shanghai Jiao Tong University (SJTU). 
 
 My current research is on context window extension of Large Language Models (LLMs) at GAIR Lab, under the guidance of [Prof. Pengfei Liu](http://pfliu.com/). Before that, I researched LLMs' tool learning and evaluation, working closely with [Prof. Junxian He](https://jxhe.github.io/).
 
