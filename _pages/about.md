@@ -43,7 +43,7 @@ Under Review at COLING24
 **Brief**: We propose a self-adaptive approach to incorporate constituency grammar information into Transformers. The proposed method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
 
 **Pygmtools: A Python Graph Matching Toolkit**   
-R. Wang, Z. Guo, W. Pan, Y. Zhang, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan  
+R. Wang, Z. Guo, W. Pan, *<ins>Y. Zhang</ins>*, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan  
 Under Review at Journal of Machine Learning Research (JMLR). [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)  
 **Brief**: Graph matching solvers in Python supporting various backends
 
