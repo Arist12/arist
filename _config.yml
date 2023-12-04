@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Yikai Zhang"
 name                     : &name "Yikai Zhang"
-description              : &description "Senior students at SJTU"
+description              : &description "Senior student at SJTU"
 url                      : https://arist12.github.io/ykzhang/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arist12.github.io/ykzhang/"
