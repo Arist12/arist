@@ -30,7 +30,7 @@ I'm generally interested in natural language processing, with a particular focus
 **Efficient Context Window Extension of LLMs via Entropy-Aware ABF**  
 *<ins>Y. Zhang</ins>*, J. Li, P. Liu  
 Under Submission  
-**Brief**: We present an entropy-aware method to extend Rotary Position Embedding (RoPE) for better long-context fine-tuning performance. Experiments show that our method surpasses other RoPE-Extending methods by a large margin on long-context benchmarks and achieves extraordinary converging speed. Notably, our method can train a decent long-context language model with only **100** training samples and **6** training steps.
+**Brief**: We present a novel extension to Rotary Position Embedding (RoPE) for better long-context fine-tuning performance of RoPE-based LLMs. Experiments show that our method surpasses other RoPE-Extending methods by a large margin on long-context benchmarks and achieves extraordinary converging speed by training a decent long-context language model with only **100** training samples and **6** training steps.
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
 Y. Huang\*, Y. Bai\*, Z. Zhu, J. Zhang, J. Zhang, T. Su, J. Liu, C. Lv, *<ins>Y. Zhang</ins>*, J. Lei, Y. Fu, M. Sun, J. He  
