@@ -28,29 +28,29 @@ I'm generally interested in natural language processing, with a particular focus
 
 # Publications
 **Efficient Context Window Extension of LLMs via Entropy-Aware ABF**  
-*<ins>Y. Zhang</ins>*, J. Li, P. Liu
-Under Submission
-Brief: We present an entropy-aware method to extend Rotary Position Embedding (RoPE) for better long-context fine-tuning performance. Experiments show that our method surpasses other RoPE-Extending methods by a large margin on long-context benchmarks and achieves extraordinary converging speed. Notably, our method can train a decent long-context language model with only **100** training samples and **6** training steps.
+*<ins>Y. Zhang</ins>*, J. Li, P. Liu  
+Under Submission  
+**Brief**: We present an entropy-aware method to extend Rotary Position Embedding (RoPE) for better long-context fine-tuning performance. Experiments show that our method surpasses other RoPE-Extending methods by a large margin on long-context benchmarks and achieves extraordinary converging speed. Notably, our method can train a decent long-context language model with only **100** training samples and **6** training steps.
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
 Y. Huang\*, Y. Bai\*, Z. Zhu, J. Zhang, J. Zhang, T. Su, J. Liu, C. Lv, *<ins>Y. Zhang</ins>*, J. Lei, Y. Fu, M. Sun, J. He  
 NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)  
-Brief: The first comprehensive Chinese evaluation suite for foundation models. Received over **120** downloads on HuggingFace and more than **1.2k** stars on GitHub.
+**Brief**: The first comprehensive Chinese evaluation suite for foundation models. Received over **120** downloads on HuggingFace and more than **1.2k** stars on GitHub.
 
 **Learning to Adaptively Incorporate External Syntax through Gated Self-Attention**  
 S. Hou, *<ins>Y. Zhang</ins>*, J. Kai, H. Xue, K. Yang, X. Wang, Z. Lin.  
 Under Review at COLING24  
-Brief: We propose a self-adaptive approach to incorporate constituency grammar information into Transformers. The proposed method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
+**Brief**: We propose a self-adaptive approach to incorporate constituency grammar information into Transformers. The proposed method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
 
-**Pygmtools: A Python Graph Matching Toolkit**  
-R. Wang, Z. Guo, W. Pan, Y. Zhang, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan
-Under Review at Journal of Machine Learning Research (JMLR). [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)
-Brief: Graph matching solvers in Python supporting various backends
+**Pygmtools: A Python Graph Matching Toolkit**   
+R. Wang, Z. Guo, W. Pan, Y. Zhang, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan  
+Under Review at Journal of Machine Learning Research (JMLR). [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)  
+**Brief**: Graph matching solvers in Python supporting various backends
 
 # Selected Projects
-**Coffee Kindom** [[website]](https://com-480-data-visualization.github.io/project-2023-kingdom_of_kaffa/website/index.html) [[github]](https://github.com/com-480-data-visualization/project-2023-kingdom_of_kaffa)  
-Brief: A website featuring best-selling coffee products and interactive data visualizations
+**Coffee Kindom** [[website]](https://com-480-data-visualization.github.io/project-2023-kingdom_of_kaffa/website/index.html) [[github]](https://github.com/com-480-data-visualization/project-2023-kingdom_of_kaffa)   
+**Brief**: A website featuring best-selling coffee products and interactive data visualizations
 
 **PLI: Python-based Lambda Interpreter** [[github]](https://github.com/FKCSP/PLI-Python-based-Lambda-Interpreter)  
-Brief: An interpreter for lambda expressions implemented with Python
+**Brief**: An interpreter for lambda expressions implemented with Python
 
