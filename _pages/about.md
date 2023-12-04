@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior student majoring in Computer Science and Technology (IEEE Honor Class) at Shanghai Jiao Tong University. 
 
-My current focus is on context window extension of Large Language Models (LLMs) at GAIR Lab, under the guidance of [Prof. Pengfei Liu](http://pfliu.com/). Before that, I researched LLMs' tool learning and evaluation, working closely with [Prof. Junxian He](https://jxhe.github.io/).
+My current research is on context window extension of Large Language Models (LLMs) at GAIR Lab, under the guidance of [Prof. Pengfei Liu](http://pfliu.com/). Before that, I researched LLMs' tool learning and evaluation, working closely with [Prof. Junxian He](https://jxhe.github.io/).
 
 # Research
 
