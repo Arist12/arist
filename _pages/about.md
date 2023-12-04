@@ -35,7 +35,7 @@ Under Submission
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
 Y. Huang\*, Y. Bai\*, Z. Zhu, J. Zhang, J. Zhang, T. Su, J. Liu, C. Lv, *<ins>Y. Zhang</ins>*, J. Lei, Y. Fu, M. Sun, J. He  
 NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)  
-**Brief**: The first comprehensive Chinese evaluation suite for foundation models. Received over **120** downloads on HuggingFace and more than **1.2k** stars on GitHub.
+**Brief**: The first comprehensive Chinese evaluation suite for foundation models. Received over **120k** downloads on HuggingFace and more than **1.2k** stars on GitHub.
 
 **Learning to Adaptively Incorporate External Syntax through Gated Self-Attention**  
 S. Hou, *<ins>Y. Zhang</ins>*, J. Kai, H. Xue, K. Yang, X. Wang, Z. Lin.  
