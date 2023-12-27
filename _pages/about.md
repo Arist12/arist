@@ -14,16 +14,14 @@ My current research is on context window extension of Large Language Models (LLM
 
 # Research
 
-I'm generally interested in natural language processing, with a particular focus on improving LLMs' practicality, reliability, and safety. Here are some LLM-related topics that interest me:
+I'm generally interested in natural language processing, with a particular focus on enhancing LLMs' practicality and reliability. Here are some LLM-related topics that I'm currently interested in:
 
-- **Context Window Extension**
+- **Long Sequence Modeling/Generation**
 
 - **LLM Evaluation**
 
 - **LLM Agents and Tool Learning**
 
-- **Alignment**
-  
 - **Multi-step Reasoning**
 
 # Publications
@@ -40,17 +38,17 @@ NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/23
 **Learning to Adaptively Incorporate External Syntax through Gated Self-Attention**  
 S. Hou, *<ins>Y. Zhang</ins>*, J. Kai, H. Xue, K. Yang, X. Wang, Z. Lin.  
 Under Review at COLING24  
-**Brief**: We propose a self-adaptive network to incorporate constituency grammar information into Transformers to guide machine translation tasks. Our method method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
+**Brief**: We propose a self-adaptive network to incorporate constituency grammar information into Transformers to guide machine translation tasks. Our method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
 
 **Pygmtools: A Python Graph Matching Toolkit**   
 R. Wang, Z. Guo, W. Pan, *<ins>Y. Zhang</ins>*, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan  
 Journal of Machine Learning Research (JMLR). [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)  
-**Brief**: Graph matching solvers in Python supporting various backends
+**Brief**: SOTA graph matching solvers implemented in Python, supporting various backends (PyTorch, Numpy, Tensorflow, Paddle, etc)
 
 # Selected Projects
 **Coffee Kindom** [[website]](https://com-480-data-visualization.github.io/project-2023-kingdom_of_kaffa/website/index.html) [[github]](https://github.com/com-480-data-visualization/project-2023-kingdom_of_kaffa)   
 **Brief**: A website featuring best-selling coffee products and interactive data visualizations
 
 **PLI: Python-based Lambda Interpreter** [[github]](https://github.com/FKCSP/PLI-Python-based-Lambda-Interpreter)  
-**Brief**: An interpreter for lambda expressions implemented with Python
+**Brief**: An interpreter for lambda expressions implemented in Python
 
