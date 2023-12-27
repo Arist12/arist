@@ -26,8 +26,8 @@ I'm generally interested in natural language processing, with a particular focus
 
 # Publications
 **Extending LLMs' Context Window with 100 Samples**  
-*<ins>Y. Zhang</ins>*, J. Li, P. Liu 
-Under Submission 
+*<ins>Y. Zhang</ins>*, J. Li, P. Liu  
+Under Submission  
 **Brief**: We present a novel extension to Rotary Position Embedding (RoPE) for LLMs' context window extension. Our method outperforms all baselines on various context-demanding tasks in both fine-tuning performance and robustness across different context window sizes. Notably, our method extends LLaMA-2-Chat to 16,384 with only **100** samples and **6** training steps, showcasing extraordinary efficiency. 
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
