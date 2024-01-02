@@ -18,9 +18,9 @@ I'm generally interested in natural language processing, with a particular focus
 
 - **Long Sequence Modeling/Generation**
 
-- **LLM Evaluation**
+- **Trustworthy LLMs**
 
-- **LLM Agents and Tool Learning**
+- **LLM Evaluation**
 
 - **Multi-step Reasoning**
 
