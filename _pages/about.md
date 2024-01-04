@@ -28,27 +28,27 @@ I'm generally interested in natural language processing, with a particular focus
 **Extending LLMs' Context Window with 100 Samples**  
 *<ins>Y. Zhang</ins>*, J. Li, P. Liu  
 _Under Submission_  
-**Brief**: We present a novel extension to Rotary Position Embedding (RoPE) for LLMs' context window extension. Our method outperforms all baselines on various context-demanding tasks in both fine-tuning performance and robustness across different context window sizes. Notably, our method extends LLaMA-2-Chat to 16,384 with only **100** samples and **6** training steps, showcasing extraordinary efficiency. 
+**Brief**: We present a novel extension to Rotary Position Embedding (RoPE) that efficiently extends the context window of LLaMA-2-Chat to 16,384 with only **100** samples and **6** training steps.
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)  
 Y. Huang\*, Y. Bai\*, Z. Zhu, J. Zhang, J. Zhang, T. Su, J. Liu, C. Lv, *<ins>Y. Zhang</ins>*, J. Lei, Y. Fu, M. Sun, J. He  
 _NeurIPS 2023 (Datasets and Benchmarks track)._  
-**Brief**: The first comprehensive evaluation benchmark for foundation models in a Chinese context. C-Eval received over **120k** downloads on HuggingFace and more than **1.2k** stars on GitHub.
+**Brief**: The first comprehensive evaluation benchmark for foundation models in a Chinese context. C-Eval received over **130k** monthly downloads on HuggingFace and **1.3k** stars on GitHub.
 
 **Learning to Adaptively Incorporate External Syntax through Gated Self-Attention**  
 S. Hou, *<ins>Y. Zhang</ins>*, J. Kai, H. Xue, K. Yang, X. Wang, Z. Lin.  
 _Under Review at COLING24_  
-**Brief**: We propose a self-adaptive network to incorporate constituency grammar information into Transformers to guide machine translation tasks. Our method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
+**Brief**: We propose a self-adaptive network that incorporates constituency grammar into Transformer models to guide machine translation tasks. Our method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
 
 **Pygmtools: A Python Graph Matching Toolkit**  [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)   
 R. Wang, Z. Guo, W. Pan, *<ins>Y. Zhang</ins>*, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan  
 _Journal of Machine Learning Research (JMLR)._  
-**Brief**: SOTA graph matching solvers implemented in Python, supporting various backends (PyTorch, Numpy, Tensorflow, Paddle, etc)
+**Brief**: State-of-the-art graph matching solvers implemented in Python, supporting various backends including PyTorch, Numpy, Tensorflow, Paddle, etc.
 
 # Selected Projects
 **Coffee Kindom** [[website]](https://com-480-data-visualization.github.io/project-2023-kingdom_of_kaffa/website/index.html) [[github]](https://github.com/com-480-data-visualization/project-2023-kingdom_of_kaffa)   
-**Brief**: A website featuring best-selling coffee products and interactive data visualizations
+**Brief**: A website featuring best-selling coffee products and interactive data visualizations.
 
 **PLI: Python-based Lambda Interpreter** [[github]](https://github.com/FKCSP/PLI-Python-based-Lambda-Interpreter)  
-**Brief**: An interpreter for lambda expressions implemented in Python
+**Brief**: An interpreter for lambda expressions implemented in Python.
 
