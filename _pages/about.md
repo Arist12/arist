@@ -25,7 +25,7 @@ I'm generally interested in natural language processing, with a particular focus
 - **Multi-step Reasoning**
 
 # Publications
-**Extending LLMs' Context Window with 100 Samples**  [[github]](https://github.com/GAIR-NLP/Entropy-ABF) [[preprint]](https://drive.google.com/file/d/1Y9GVW6vFP-rSmTcdMM76r2_-iXUVy6DR/view?usp=drive_link)
+**Extending LLMs' Context Window with 100 Samples**  [[github]](https://github.com/GAIR-NLP/Entropy-ABF) [[preprint]](https://drive.google.com/file/d/1Y9GVW6vFP-rSmTcdMM76r2_-iXUVy6DR/view?usp=drive_link)  
 *<ins>Y. Zhang</ins>*, J. Li, P. Liu  
 _Under Submission_  
 **Brief**: We present a novel extension to Rotary Position Embedding (RoPE) that efficiently extends the context window of LLaMA-2-Chat to 16,384 with only **100** samples and **6** training steps.
