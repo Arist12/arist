@@ -25,15 +25,15 @@ I'm generally interested in natural language processing, with a particular focus
 - **Multi-step Reasoning**
 
 # Publications
-**Extending LLMs' Context Window with 100 Samples**  [[github]](https://github.com/GAIR-NLP/Entropy-ABF) [[preprint]](https://drive.google.com/file/d/1Y9GVW6vFP-rSmTcdMM76r2_-iXUVy6DR/view?usp=drive_link)  
+**Extending LLMs' Context Window with 100 Samples**  [[preprint]](https://arxiv.org/abs/2401.07004)[[github]](https://github.com/GAIR-NLP/Entropy-ABF)  
 *<ins>Y. Zhang</ins>*, J. Li, P. Liu  
 _Under Submission_  
 **Brief**: We present a novel extension to Rotary Position Embedding (RoPE) that efficiently extends the context window of LLaMA-2-Chat to 16,384 with only **100** samples and **6** training steps.
 
-**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)  
+**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com)  
 Y. Huang\*, Y. Bai\*, Z. Zhu, J. Zhang, J. Zhang, T. Su, J. Liu, C. Lv, *<ins>Y. Zhang</ins>*, J. Lei, Y. Fu, M. Sun, J. He  
 _NeurIPS 2023 (Datasets and Benchmarks track)._  
-**Brief**: The first comprehensive evaluation benchmark for foundation models in a Chinese context. C-Eval received over **130k** monthly downloads on HuggingFace and **1.3k** stars on GitHub.
+**Brief**: The first comprehensive evaluation benchmark for foundation models in a Chinese context. C-Eval received over **140k** monthly downloads on HuggingFace and **1.3k** stars on GitHub.
 
 **Learning to Adaptively Incorporate External Syntax through Gated Self-Attention**  
 S. Hou, *<ins>Y. Zhang</ins>*, J. Kai, H. Xue, K. Yang, X. Wang, Z. Lin.  
