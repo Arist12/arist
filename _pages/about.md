@@ -40,7 +40,7 @@ S. Hou, *<ins>Y. Zhang</ins>*, J. Kai, H. Xue, K. Yang, X. Wang, Z. Lin.
 _Under Review at COLING24_  
 **Brief**: We propose a self-adaptive network that incorporates constituency grammar into Transformer models to guide machine translation tasks. Our method outperformed other syntax-related methods in 4 out of 5 machine translation datasets.
 
-**Pygmtools: A Python Graph Matching Toolkit**  [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)   
+**Pygmtools: A Python Graph Matching Toolkit**  [[page]](http://jmlr.org/papers/v25/23-0572.html) [[github]](https://github.com/Thinklab-SJTU/pygmtools) [[doc]](https://pygmtools.readthedocs.io/en/latest/)  
 R. Wang, Z. Guo, W. Pan, *<ins>Y. Zhang</ins>*, J. Ma, N. Yang, Q. Liu, L. Wei, H. Zhang, C. Liu, Z. Jiang, X. Yang, J. Yan  
 _Journal of Machine Learning Research (JMLR)._  
 **Brief**: State-of-the-art graph matching solvers implemented in Python, supporting various backends including PyTorch, Numpy, Tensorflow, Paddle, etc.
