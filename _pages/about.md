@@ -27,7 +27,7 @@ I'm generally interested in natural language processing, with a particular focus
 # Publications
 **Extending LLMs' Context Window with 100 Samples**  [[preprint]](https://arxiv.org/abs/2401.07004) [[github]](https://github.com/GAIR-NLP/Entropy-ABF)  
 *<ins>Y. Zhang</ins>*, J. Li, P. Liu  
-_Under Submission_  
+_Submitted to ACL 24_  
 **Brief**: We present a novel extension to Rotary Position Embedding (RoPE) that efficiently extends the context window of LLaMA-2-Chat to 16,384 with only **100** samples and **6** training steps.
 
 **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com)  
