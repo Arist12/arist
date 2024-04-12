@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student majoring in Computer Science and Technology (IEEE Honor Class) at Shanghai Jiao Tong University (SJTU). 
+I'm an incoming CS PhD student at UW-Madison, and I'm a senior student at Shanghai Jiao Tong University (SJTU), majoring in Computer Science and Technology (IEEE Honor Class)  
 
-My current research is on context window extension of Large Language Models (LLMs) at GAIR Lab, under the guidance of [Prof. Pengfei Liu](http://pfliu.com/). Before that, I researched LLMs' tool learning and evaluation, working closely with [Prof. Junxian He](https://jxhe.github.io/).
+Currently, I work as a research intern at AWS Shanghai AI Lab, focusing on long-context LLMs. I'm also an honored member of GAIR Lab, advised by [Prof. Pengfei Liu](http://pfliu.com/). Before that, I worked closely with [Prof. Junxian He](https://jxhe.github.io/) and [Prof. Zhouhan Lin](https://hantek.github.io/).
 
 # Research
 
-I'm generally interested in natural language processing, with a particular focus on enhancing LLMs' practicality and reliability. Here are some LLM-related topics that I'm currently interested in:
+I'm generally interested in NLP, with a particular focus on large generative models. Here are some LLM-related topics that I'm currently interested in:
 
-- **Long Sequence Modeling/Generation**
+- **Long-Context LLMs**
 
 - **Trustworthy LLMs**
 
-- **Multi-step Reasoning**
+- **Interpretability and application of LLMs**
+
 
 # Publications
 **Dissecting Human and LLM Preferences**  [[preprint]](https://arxiv.org/abs/2402.11296) [[github]](https://github.com/GAIR-NLP/Preference-Dissection)  
